@@ -1,0 +1,8 @@
+Class
+- users
+- employees
+- products
+- suppliers
+- purchases
+- customers
+- reports
