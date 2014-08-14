@@ -38,3 +38,4 @@ class Auth extends SAM_Controller {
 
 /* End of file auth.php */
 /* Location: ./application/controllers/auth.php */
+/* sample modification */
